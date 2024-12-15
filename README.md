@@ -1,4 +1,4 @@
-# Caso de Optimización: Modelo de programación lineal
+# Caso de Optimización: Modelo de programación Lineal
 
 ## Contexto
 
