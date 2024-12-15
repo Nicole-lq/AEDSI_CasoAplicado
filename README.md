@@ -1,8 +1,8 @@
-# Caso de Optimización: Modelo de Programación Lineal Estocástico
+# Caso de Optimización: Modelo de programación lineal
 
 ## Contexto
 
-Este proyecto resuelve un problema de optimización estocástica donde una empresa de productos químicos tiene que decidir cómo distribuir su producción entre dos plantas, tres estanques de almacenamiento y satisfacer las demandas de tres clientes. Las decisiones deben tomarse en dos etapas: una primera donde se decide la cantidad a producir y almacenar en los estanques sin conocer la demanda de los clientes, y una segunda etapa donde se ajusta la distribución según las demandas reales de los clientes. El objetivo es maximizar las utilidades obtenidas por la venta de los productos.
+Este proyecto resuelve un problema de optimización estocástica, abordado desde una perspectiva determinística, en donde una empresa de productos químicos tiene que decidir cómo distribuir su producción entre dos plantas, tres estanques de almacenamiento y satisfacer las demandas de tres clientes. Las decisiones deben tomarse en dos etapas: una primera donde se decide la cantidad a producir y almacenar en los estanques sin conocer la demanda de los clientes, y una segunda etapa donde se ajusta la distribución según las demandas reales de los clientes. El objetivo es maximizar las utilidades obtenidas por la venta de los productos.
 
 ## Código
 
